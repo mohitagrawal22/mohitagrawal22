@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **mohitagrawal22/mohitagrawal22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,9 +28,10 @@ Java Backend Developer
 Passionate about coding and Self-motivated with a keen interest in building user-centric products I bring passion, determination, and loyalty to any role I undertake. My spirit animal is definitely a Lion.
 
 *   🌍  I'm based in Mumbai, India.
-*   🖥️  See my portfolio at [MyPortfolio](http://https://zippy-dodol-31cfda.netlify.app/)
+*   🖥️  See my portfolio at [MyPortfolio](https://mohitagrawal22.github.io/)
 *   ✉️  You can contact me at [agrawalmohitam@gmail.com](mailto:agrawalmohitam@gmail.com)
-*   ⚡  Apart from coding, I Like Hip-hop culture/music, Driving.### Skills<p align="left">
+*   ⚡  Apart from coding, I Like Hip-hop culture/music, Driving.
+Skills<p align="left">
                                 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
                                 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -39,17 +40,27 @@ Passionate about coding and Self-motivated with a keen interest in building user
                     </p>
                     
                     
+                   
+
+
+          <img class="techimg" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" alt="">
+          <img src="https://user-images.githubusercontent.com/58034490/141354056-7bf12bcc-6ebc-4104-bd4e-d5e24db293f5.gif" alt="">
+          <img class="techimg" src="https://user-images.githubusercontent.com/58034490/141353058-36c5ef97-420a-4bcf-b871-7ef1cc262e26.png" alt="">
+          <img class="techimg" src="https://miro.medium.com/max/1400/0*Rplsn6TJYurdICZB.jpg" alt="">
+
+          <img class="techimg" src="https://user-images.githubusercontent.com/58034490/141353054-2350801b-ca74-40c5-87b8-c8e3cb909928.png" alt="">
+          <img src="https://user-images.githubusercontent.com/58034490/141354818-8c186650-e4fa-4463-9690-e8f91893dfa2.gif" alt="">
+          <img  class="techimg" src="https://user-images.githubusercontent.com/58034490/141353050-4624e02a-84d4-4a97-a533-fd8bae9fd418.png" alt="">
+          <img src="https://user-images.githubusercontent.com/58034490/141354514-b1d119b6-c960-4eb1-8178-12efd9a1fc83.gif" alt="">
+          
+          <img class="techimg" src="https://pbs.twimg.com/profile_images/914842431748739072/66NFe2g3.jpg" alt="">
+
+
+
+      
                     
                     
-                    <p align="left">
-                          
-                      <a href="https://www.github.com/mohitagrawal22" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/mohit-agrawal-412a21175/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="http://www.medium.com/@agrawalmohitam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/mohitagrawal22"><img src="https://github-readme-stats.vercel.app/api?username=mohitagrawal22&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="mohitagrawal22's GitHub stats" /></a><a
-                      href="http://www.github.com/mohitagrawal22"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=mohitagrawal22&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="https://github.com/mohitagrawal22" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitagrawal22&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+                    
+     
                   
                 
