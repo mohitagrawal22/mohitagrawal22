@@ -53,7 +53,7 @@ Passionate about coding and Self-motivated with a keen interest in building user
 
  
      📊 Github stats
-     
+   
    <!--  dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula    -->
    
     
@@ -62,6 +62,9 @@ Passionate about coding and Self-motivated with a keen interest in building user
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohitagrawal22&theme=gruvbox)](https://git.io/streak-stats)
 
+     
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitagrawal22&theme=gruvbox)](https://github.com/mohitagrawal22/github-readme-stats)
+     
      
      📈 Activity Graph
     
