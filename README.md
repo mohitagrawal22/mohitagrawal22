@@ -32,6 +32,8 @@ Passionate about coding and Self-motivated with a keen interest in building user
 *   ✉️  You can contact me at [agrawalmohitam@gmail.com](mailto:agrawalmohitam@gmail.com)
 *   ⚡  Apart from coding, I Like Hip-hop culture/music, Driving.
 
+
+
 <img src="https://user-images.githubusercontent.com/58034490/141353655-b1a69eb8-0c04-4705-ac20-ef71c72ae177.gif" width="900" height="600" alt="Java" />
 
      💻 Skills
@@ -49,14 +51,18 @@ Passionate about coding and Self-motivated with a keen interest in building user
   
    <!--This img tag works  <img src="" width="900" height="600" alt="Java" />  -->
           
-          
+      📫 How to reach me:  
+   <a href="https://www.linkedin.com/in/mohit-agrawal-412a21175/" target="_blank" rel="noreferrer"><img src="https://180dc.org/wp-content/uploads/2020/01/Linkedin-logo-1-550x550-300x300.png" width="100" height="100" alt="Java" />
+     <a href="http://www.medium.com/@agrawalmohitam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="100" height="100" alt="Java" />
+          <a href="https://twitter.com/Mohitagrawal105" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/124/124021.png" width="100" height="100" alt="Java" />    
 
- 
+
      📊 Github stats
    
    <!--  dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula    -->
-   
-    
+
+
+     
 [    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohitagrawal22&theme=gruvbox)](https://github-readme-stats.vercel.app/api?username=mohitagrawal22&theme=gruvbox")
 
 
@@ -64,6 +70,7 @@ Passionate about coding and Self-motivated with a keen interest in building user
 
      
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitagrawal22&theme=gruvbox)](https://github.com/mohitagrawal22/github-readme-stats)
+     
      
      
      📈 Activity Graph
