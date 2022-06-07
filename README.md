@@ -52,9 +52,9 @@ Passionate about coding and Self-motivated with a keen interest in building user
    <!--This img tag works  <img src="" width="900" height="600" alt="Java" />  -->
           
       📫 How to reach me:  
-   <a href="https://www.linkedin.com/in/mohit-agrawal-412a21175/" target="_blank" rel="noreferrer"><img src="https://180dc.org/wp-content/uploads/2020/01/Linkedin-logo-1-550x550-300x300.png" width="100" height="100" alt="Java" />
-     <a href="http://www.medium.com/@agrawalmohitam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="100" height="100" alt="Java" />
-          <a href="https://twitter.com/Mohitagrawal105" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/124/124021.png" width="100" height="100" alt="Java" />    
+   <a href="https://www.linkedin.com/in/mohit-agrawal-412a21175/" target="_blank" rel="noreferrer"><img src="https://180dc.org/wp-content/uploads/2020/01/Linkedin-logo-1-550x550-300x300.png" width="100" height="100" alt="LinkedIn" />
+     <a href="http://www.medium.com/@agrawalmohitam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="90" height="120" alt="Medium" />
+          <a href="https://twitter.com/Mohitagrawal105" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_M9gfMxKuhBLC0XylH90Q-0F50zKBlTcKMA&usqp=CAU" width="80" height="87"  alt="Twitter" />    
 
 
      📊 Github stats
