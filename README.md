@@ -32,6 +32,10 @@ Passionate about coding and Self-motivated with a keen interest in building user
 *   ✉️  You can contact me at [agrawalmohitam@gmail.com](mailto:agrawalmohitam@gmail.com)
 *   ⚡  Apart from coding, I Like Hip-hop culture/music, Driving.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitagrawal22&label=Profile%20views&color=0e75b6&style=flat" alt="mohitagrawal22" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohitagrawal22" alt="mohitagrawal22" /></a> </p>
+
 
 
 <img src="https://user-images.githubusercontent.com/58034490/141353655-b1a69eb8-0c04-4705-ac20-ef71c72ae177.gif" width="900" height="600" alt="Java" />
