@@ -61,21 +61,25 @@ Passionate about coding and Self-motivated with a keen interest in building user
    
    <!--  dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula    -->
 
+<p align="center"><img align="center" style="margin-left:300px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohitagrawal22&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="mohitagrawal22" /></p>               
+        
+<p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohitagrawal22&show_icons=true&locale=en&theme=gruvbox" alt="mohitagrawal22" /></p>
+<p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohitagrawal22&theme=gruvbox" alt="mohitagrawal22" /></p>
+
+               
+             
+  <!--  [    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohitagrawal22&theme=gruvbox)](https://github-readme-stats.vercel.app/api?username=mohitagrawal22&theme=gruvbox")  -->
+
+
+ <!--  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohitagrawal22&theme=gruvbox)](https://git.io/streak-stats)  -->
 
      
-[    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohitagrawal22&theme=gruvbox)](https://github-readme-stats.vercel.app/api?username=mohitagrawal22&theme=gruvbox")
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohitagrawal22&theme=gruvbox)](https://git.io/streak-stats)
-
+ <!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitagrawal22&theme=gruvbox)](https://github.com/mohitagrawal22/github-readme-stats)  -->
      
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitagrawal22&theme=gruvbox)](https://github.com/mohitagrawal22/github-readme-stats)
-     
-     
+
      
      📈 Activity Graph
     
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Mohit's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=mohitagrawal22&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
-     
-      
-          
+
+               
