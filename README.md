@@ -26,9 +26,6 @@ Java Backend Developer
 ----------------------
 Passionate about coding and Self-motivated with a keen interest in building user-centric products I bring passion, determination, and loyalty to any role I undertake. My spirit animal is definitely a Lion.
 
-<img src="https://user-images.githubusercontent.com/58034490/141353655-b1a69eb8-0c04-4705-ac20-ef71c72ae177.gif" width="900" height="600" alt="Java" />
-
-
 *   🌍  I'm based in Mumbai, India.
 *   🖥️  See my portfolio at [MyPortfolio](https://mohitagrawal22.github.io/)
 *   ✉️  You can contact me at [agrawalmohitam@gmail.com](mailto:agrawalmohitam@gmail.com)
@@ -38,7 +35,7 @@ Passionate about coding and Self-motivated with a keen interest in building user
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohitagrawal22" alt="mohitagrawal22" /></a> </p>
 
-
+<img src="https://user-images.githubusercontent.com/58034490/141353655-b1a69eb8-0c04-4705-ac20-ef71c72ae177.gif" width="900" height="600" alt="Java" />
 
 
 
