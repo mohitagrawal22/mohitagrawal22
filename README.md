@@ -57,7 +57,7 @@ Passionate about coding and Self-motivated with a keen interest in building user
       📫 How to reach me:  
    <a href="https://www.linkedin.com/in/mohit-agrawal-412a21175/" target="_blank" rel="noreferrer"><img src="https://180dc.org/wp-content/uploads/2020/01/Linkedin-logo-1-550x550-300x300.png" width="100" height="100" alt="LinkedIn" />
      <a href="http://www.medium.com/@agrawalmohitam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="90" height="120" alt="Medium" />
-          <a href="https://twitter.com/Mohitagrawal105" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_M9gfMxKuhBLC0XylH90Q-0F50zKBlTcKMA&usqp=CAU" width="80" height="87"  alt="Twitter" />    
+          <a href="https://twitter.com/Mohitagrawal105" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_M9gfMxKuhBLC0XylH90Q-0F50zKBlTcKMA&usqp=CAU" width="80" height="87"  alt="Twitter" /><a href="https://www.instagram.com/mohitagrawal22/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="80" height="87"  alt="Twitter" /> </a>
 
 
      📊 Github stats
