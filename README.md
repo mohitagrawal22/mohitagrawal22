@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 Hi 👋 My name is Mohit Agrawal
 ==============================
 
-I'm a Java Backend Developer
+Im a Java Backend Developer
 ---------------------------
 Passionate about coding and Self-motivated with a keen interest in building user-centric products I bring passion, determination, and loyalty to any role I undertake. My spirit animal is definitely a Lion.
 
