@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-Hi 👋 My name is Mohit Agrawal
+
 ==============================
 
 Im a Java Backend Developer
