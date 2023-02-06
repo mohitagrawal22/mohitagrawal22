@@ -41,7 +41,7 @@ Passionate about coding and Self-motivated with a keen interest in building user
  <div align="center">
     ### Now Playing 🎧
  
- [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/31yupsz77rcgljagf4kqpcjqzznu?)<br/>
+ [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/31aard3c7ponnavgxede6lcsg5aa?)<br/>
 </div>
 
 
