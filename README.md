@@ -11,6 +11,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+coding image GIF - <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--WXI5d2Ru--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752">
+
+
 -->
 
 
@@ -39,21 +44,11 @@ Passionate about coding and Self-motivated with a keen interest in building user
 
 
 
-
+ <div align="center">
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31c4prjk2z7zdasnitcdo5cfkgm4)
 
-<!--
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31c4prjk2z7zdasnitcdo5cfkgm4&count={count})
-
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31c4prjk2z7zdasnitcdo5cfkgm4&width={width})
-
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31c4prjk2z7zdasnitcdo5cfkgm4&unique={true|1|on|yes})
-
---!>
-
+</div>
 
 
 
@@ -96,8 +91,6 @@ Passionate about coding and Self-motivated with a keen interest in building user
 <p align="center"><img align="center" style="margin-left:300px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohitagrawal22&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="mohitagrawal22" /></p>     
 
 
-
-<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--WXI5d2Ru--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752">
 
 
         
