@@ -43,7 +43,7 @@ Passionate about coding and Self-motivated with a keen interest in building user
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31c4prjk2z7zdasnitcdo5cfkgm4)
 
-
+<!--
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31c4prjk2z7zdasnitcdo5cfkgm4&count={count})
 
 
@@ -52,13 +52,7 @@ Passionate about coding and Self-motivated with a keen interest in building user
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31c4prjk2z7zdasnitcdo5cfkgm4&unique={true|1|on|yes})
 
-
-
-
-
-
- <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--WXI5d2Ru--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752">
-
+--!>
 
 
 
@@ -85,6 +79,9 @@ Passionate about coding and Self-motivated with a keen interest in building user
   <img src="https://pbs.twimg.com/profile_images/914842431748739072/66NFe2g3.jpg" width="100" height="100" alt="Java" />
   
    <!--This img tag works  <img src="" width="900" height="600" alt="Java" />  -->
+
+
+
           
       📫 How to reach me:  
    <a href="https://www.linkedin.com/in/mohit-agrawal-412a21175/" target="_blank" rel="noreferrer"><img src="https://180dc.org/wp-content/uploads/2020/01/Linkedin-logo-1-550x550-300x300.png" width="100" height="100" alt="LinkedIn" />
@@ -96,7 +93,13 @@ Passionate about coding and Self-motivated with a keen interest in building user
    
    <!--  dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula    -->
 
-<p align="center"><img align="center" style="margin-left:300px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohitagrawal22&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="mohitagrawal22" /></p>               
+<p align="center"><img align="center" style="margin-left:300px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohitagrawal22&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="mohitagrawal22" /></p>     
+
+
+
+<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--WXI5d2Ru--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752">
+
+
         
 <p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohitagrawal22&show_icons=true&locale=en&theme=gruvbox" alt="mohitagrawal22" /></p>
 <p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohitagrawal22&theme=gruvbox" alt="mohitagrawal22" /></p>
