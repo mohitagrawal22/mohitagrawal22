@@ -38,6 +38,28 @@ Passionate about coding and Self-motivated with a keen interest in building user
 <img src="https://user-images.githubusercontent.com/58034490/141353655-b1a69eb8-0c04-4705-ac20-ef71c72ae177.gif" width="900" height="600" alt="Java" />
 
 
+
+
+<div class="embed-spotify-song">
+    <iframe src="https://open.spotify.com/embed/track/{{ include.id }}"  
+        frameborder="0" 
+        allowtransparency="true" 
+        allow="encrypted-media">
+    </iframe>
+</div>
+
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1AcoISAQZgYBflkE9JgOl4?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
+
+
+
+
+
+
+
+
  <div align="center">
     ### Now Playing 🎧
  
