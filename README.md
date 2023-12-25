@@ -38,6 +38,12 @@ Passionate about coding and Self-motivated with a keen interest in building user
 <img src="https://user-images.githubusercontent.com/58034490/141353655-b1a69eb8-0c04-4705-ac20-ef71c72ae177.gif" width="900" height="600" alt="Java" />
 
 
+.embed-spotify-song {
+  width: 300px;
+  height: 80px;
+  position: relative;
+  max-width: 100%;
+}
 
 
 <div class="embed-spotify-song">
